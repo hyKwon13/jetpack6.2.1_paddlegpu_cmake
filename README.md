@@ -107,9 +107,6 @@ make TARGET=ARMV8 -j3
 빌드 중 의존성 오류가 발생하면:
 
 ```bash
-# 가상환경이 활성화된 상태에서
-pip install -r ../python/requirements.txt
-
 # 추가로 필요한 패키지들
 pip install httpx
 ```
