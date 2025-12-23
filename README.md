@@ -127,6 +127,11 @@ build/python/dist/paddlepaddle_gpu-0.0.0-cp310-cp310-linux_aarch64.whl
 ## 7. 설치
 
 ```bash
+
+visionsensor@ubuntu:~/Paddle/build/python/dist$ ls
+paddlepaddle_gpu-3.3.0.dev20251111-cp310-cp310-linux_aarch64.whl
+
+
 pip install python/dist/paddlepaddle_gpu-0.0.0-cp310-cp310-linux_aarch64.whl
 ```
 
